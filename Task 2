@@ -1,0 +1,8 @@
+Install a Linux virtual machine using VirtualBox or use Windows security settings.
+Explore user accounts, permissions, and access control mechanisms.
+Learn file permissions using chmod, chown, and ls -l.
+Understand administrator vs standard user privileges.
+Enable firewall (UFW in Linux or Windows Firewall).
+Identify running processes and services.
+Disable unnecessary services to reduce attack surface.
+Document best OS hardening practices
